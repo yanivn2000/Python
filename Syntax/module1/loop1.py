@@ -3,3 +3,9 @@ for item in 'Python':
 
 for item in range(5):
     print(item)
+    print(item**2)
+
+
+print("End")
+
+

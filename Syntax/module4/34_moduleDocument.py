@@ -1,0 +1,3 @@
+import moduleDocument
+
+help(moduleDocument)
