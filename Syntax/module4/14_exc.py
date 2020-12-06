@@ -4,20 +4,6 @@
 #The function will print the number of words star with the char
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def count(char, *words):
     res = 0
     for string in words:

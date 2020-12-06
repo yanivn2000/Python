@@ -5,6 +5,7 @@
 #pip install python-barcode[images]
 #http://www.fpdf.org
 
+#create barcodes gif: https://barcode.tec-it.com/en/UPCA
 #gif to jpeg https://cloudconvert.com/
 
 import os
